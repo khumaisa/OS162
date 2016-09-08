@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 khumaisa.nuraini StafCS 4096 Sep  8 19:25 .
+drwx--x--x  3 khumaisa.nuraini StafCS 4096 Sep  8 19:23 ..
+drwxr-xr-x  8 khumaisa.nuraini StafCS 4096 Sep  8 14:24 .git
+-rw-r--r--  1 khumaisa.nuraini StafCS    0 Sep  8 19:26 lab01.txt
+-rw-r--r--  1 khumaisa.nuraini StafCS   34 Sep  8 14:04 README.md
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:10 SandBox
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 19:23 week00
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:11 week01
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:11 week02
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:11 week03
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:11 week04
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:12 week05
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:12 week06
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:12 week07
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:12 week08
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:12 week09
+drwxr-xr-x  2 khumaisa.nuraini StafCS 4096 Sep  8 14:13 week10
+/home/fasilkom/mahasiswa/k/khumaisa.nuraini/os162/week01
